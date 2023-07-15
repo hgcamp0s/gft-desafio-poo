@@ -1,0 +1,16 @@
+C:\workspace\dotnet-poo\bin\Debug\net5.0\dotnet-poo.exe
+C:\workspace\dotnet-poo\bin\Debug\net5.0\dotnet-poo.deps.json
+C:\workspace\dotnet-poo\bin\Debug\net5.0\dotnet-poo.runtimeconfig.json
+C:\workspace\dotnet-poo\bin\Debug\net5.0\dotnet-poo.runtimeconfig.dev.json
+C:\workspace\dotnet-poo\bin\Debug\net5.0\dotnet-poo.dll
+C:\workspace\dotnet-poo\bin\Debug\net5.0\dotnet-poo.pdb
+C:\workspace\dotnet-poo\obj\Debug\net5.0\dotnet-poo.csproj.AssemblyReference.cache
+C:\workspace\dotnet-poo\obj\Debug\net5.0\dotnet-poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\dotnet-poo\obj\Debug\net5.0\dotnet-poo.AssemblyInfoInputs.cache
+C:\workspace\dotnet-poo\obj\Debug\net5.0\dotnet-poo.AssemblyInfo.cs
+C:\workspace\dotnet-poo\obj\Debug\net5.0\dotnet-poo.csproj.CoreCompileInputs.cache
+C:\workspace\dotnet-poo\obj\Debug\net5.0\dotnet-poo.dll
+C:\workspace\dotnet-poo\obj\Debug\net5.0\refint\dotnet-poo.dll
+C:\workspace\dotnet-poo\obj\Debug\net5.0\dotnet-poo.pdb
+C:\workspace\dotnet-poo\obj\Debug\net5.0\dotnet-poo.genruntimeconfig.cache
+C:\workspace\dotnet-poo\obj\Debug\net5.0\ref\dotnet-poo.dll
